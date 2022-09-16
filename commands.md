@@ -27,4 +27,5 @@
 ## 6. Ссылки и картинки
 Чтобы поставить гиперссылку без анкора, нужно взять URL в угловые скобки. С e-mail – аналогично
   - [Сайт Google] (https://www.google.ru/) 
-  
+
+[Компот](https://attuale.ru/wp-content/uploads/2018/07/kompot-iz-zamorojennyx-yagod_1522054151_9_og.jpg)
